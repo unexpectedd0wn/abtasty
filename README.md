@@ -11,3 +11,6 @@ npm install
 ```sh
 npx cypress run 
 ```
+
+## Test Cases 
+Can be found  [here](https://docs.google.com/spreadsheets/d/1-WqewFBD3s_q7--0M6mGR4IzLErMWHOXX1i0K7_egDM/edit?usp=sharing)
